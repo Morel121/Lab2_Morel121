@@ -1,0 +1,21 @@
+ID,Username,Text,Likes,Retweets
+1,john_doe,"Hello world! This is my first tweet.",5,2
+2,jane_smith,"Just had coffee #morning",12,3
+3,john_doe,"Learning Python programming",8,1
+4,mike_wilson,"Beautiful sunset today",25,6
+5,jane_smith,"Working on my data science project",15,4
+6,sarah_jones,"Excited about the new framework",18,5
+7,john_doe,"Weekend coding session",10,2
+8,alex_brown,"Machine learning is fascinating",32,8
+9,jane_smith,"Coffee and code #developer",20,5
+10,mike_wilson,"Data visualization tips",28,7
+11,sarah_jones,"Web development best practices",22,6
+12,john_doe,"Algorithm practice",14,3
+13,alex_brown,"AI ethics discussion",35,9
+14,test_user,"",8,2
+15,empty_user,"Missing text content",5,1
+16,jane_smith,"Another great day",16,4
+17,mike_wilson,"Database optimization",30,7
+18,alex_brown,"Cloud computing trends",40,10
+19,sarah_jones,"JavaScript frameworks",24,6
+20,john_doe,"Problem solving approach",12,3
